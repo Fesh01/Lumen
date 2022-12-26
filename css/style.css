@@ -1,0 +1,12 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+/******
+  Header
+******/
+@media(max-width: 768px)
+{
+.header-social-icon{
+  display: none;
+}
+}
